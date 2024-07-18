@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Interactive UI</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="buttons">
+        <button class="done-button">Done</button>
+        <button class="done-button">Done</button>
+        <button class="done-button">Done</button>
+      </div>
+      <div class="checkboxes">
+        <label
+          ><input type="checkbox" class="all-pages" id="all-pages-1" /> All
+          pages</label
+        >
+        <label
+          ><input type="checkbox" class="all-pages" id="all-pages-2" /> All
+          pages</label
+        >
+        <label
+          ><input type="checkbox" class="all-pages" id="all-pages-3" checked />
+          All pages</label
+        >
+        <label
+          ><input type="checkbox" class="all-pages" id="all-pages-4" checked />
+          All pages</label
+        >
+        <label
+          ><input type="checkbox" class="all-pages" id="all-pages-5" /> All
+          pages</label
+        >
+        <label
+          ><input type="checkbox" class="all-pages" id="all-pages-6" checked />
+          All pages</label
+        >
+        <label
+          ><input type="checkbox" class="all-pages" id="all-pages-7" /> All
+          pages</label
+        >
+      </div>
+      <div class="dropdown">
+        <label for="pages-dropdown">All pages</label>
+        <select id="pages-dropdown">
+          <option value="all">All pages</option>
+          <option value="page1">Page 1</option>
+          <option value="page2">Page 2</option>
+          <option value="page3">Page 3</option>
+          <option value="page4">Page 4</option>
+        </select>
+        <button class="done-button" id="dropdown-done">Done</button>
+      </div>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>
