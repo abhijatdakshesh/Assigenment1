@@ -1,0 +1,247 @@
+body {
+    width: 1200px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    padding-top: 100px;
+}
+
+.container {
+    padding: 10px 10px 10px 10px;
+}
+
+
+.button {
+    width: 380px;
+height: 200px;
+padding-top: 10px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+vertical-align: top;
+}
+.button-border{
+    border: 2px dotted #9747FF;
+}
+.variant3{
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+}
+.variant3-color {
+    background: #FFCE22;
+    width: 340px;
+    height: 40px ;
+    top: 20px;
+    left: 20px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+
+}
+.desktop-layout {
+    width: 65px;
+    height: 340px;
+    padding-top: 10px;
+    padding-left: 20px;
+    gap: 0px;
+    border: 2px dotted #9747FF;
+    opacity: 0px;
+}
+.desktop-variant9 {
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+}
+.checkbox1{
+    width: 25px;
+    height: 25px;
+    padding-left: 20px;
+    gap: 0px;
+    border-radius: 6px ;
+    opacity: 0px;
+    
+}
+.checkbox2{
+    width: 25px;
+    height: 25px;
+    padding-top: 65px;
+    padding-left: 20px;
+    gap: 0px;
+    border-radius: 6px ;
+    opacity: 0px;
+}
+.checkbox3{
+    width: 25px;
+    height: 25px;
+    padding-top: 110px;
+    padding-left: 20px;
+    gap: 0px;
+    border-radius: 6px ;
+    opacity: 0px;
+}
+.checkbox4{
+    width: 25px;
+    height: 25px;
+    padding-top: 155px;
+    padding-left: 20px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+}
+.checkbox5{
+    width: 25px;
+    height: 25px;
+    padding-top: 200px;
+    padding-left: 20px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+}
+.checkbox6{
+    width: 25px;
+    height: 25px;
+    padding-top: 245px;
+    padding-left: 20px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+}
+.checkbox7{
+    width: 25px;
+    height: 25px;
+    padding-top: 290px;
+    padding-left: 20px;
+    gap: 0px;
+    opacity: 0px;
+}
+.checkbox8{
+    width: 25px;
+    height: 25px;
+    padding-top: 335px;
+    padding-left: 20px;
+    gap: 0px;
+    border-radius: 6px;
+    opacity: 0px;
+    text-align: center;
+}
+.checkbox9{
+    width: 25px;
+    height: 25px;
+    padding-top: 380px;
+    padding-left: 20px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+    text-align: center;
+}
+
+.home{
+    width: 410px;
+height: 520px;
+padding-top: 20px;
+padding-left: 30px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 2px dotted #9747FF
+}
+
+.home-text{
+    width: 370px;
+height: 42px;
+padding-top: 20px;
+padding-left: 20px;
+padding: 8px 15px 8px 22px;
+gap: 0px;
+opacity: 0px;
+background-color: #ffffff;
+
+}
+.home-checkbox{
+    width: 25px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.home-allpages{
+    width: 264px;
+gap: 0px;
+opacity: 0px;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 18.2px;
+text-align: left;
+}
+
+
+
+.frame-right{
+    width: 578px;
+height: 794px;
+padding: 85px 104px 383px 104px;
+gap: 0px;
+opacity: 0px;
+background: #FFFFFF;
+}
+
+.inner-frame{
+    width: 370px;
+height: 326px;
+padding-top: 85px;
+padding-left: 104px;
+padding: 20px 10px 0px 10px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #EEEEEE;
+box-shadow: 0px 8px 15px 0px #1414141F;
+box-shadow: 0px 0px 4px 0px #1414141A;
+
+}
+
+.button-wrapper{
+
+    width: 340px;
+height: 60px;
+padding: 10px 15px 10px 15px;
+gap: 10px;
+opacity: 0px;
+background: #FFFFFF;
+
+}
+.button-right{
+    width: 320px;
+height: 40px;
+padding: 10px 20px 10px 20px;
+gap: 0px;
+border-radius: 0px 0px 0px 0px;
+opacity: 0px;
+text-align: center;
+background: #FFCE22;
+}
+.frame-space{
+width: 370px;
+height: 20px;
+padding: 10px 15px 10px 15px;
+gap: 10px;
+opacity: 0px;
+}
+.frame-line{
+    width: 340px;
+height: 0px;
+gap: 0px;
+border: 0.7px 0px 0px 0px;
+opacity: 0px;
+border: 0.7px solid #CDCDCD
+}
+
+
